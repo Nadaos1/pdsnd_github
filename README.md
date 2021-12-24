@@ -18,6 +18,8 @@ In this project, _Python_ is used to explore data related to bike share systems 
 * Juno Lee (Udacity Mentor)
     - [https://github.com/junolee](https://github.com/junolee)
     - [https://www.linkedin.com/in/junoleelj](https://www.linkedin.com/in/junoleelj)
+* YashMotwani
+    -[https://github.com/YashMotwani/US-Bikeshare-Data-Exploration-Program/edit/master/README.md]
 
 * The data for all 3 cities that is used in this project can be accessed through the link mentioned below :
     - [City Data](https://drive.google.com/file/d/1km4EggJaSvHos_7KKFuHoJxbh-StyM4G/view?usp=sharing)
