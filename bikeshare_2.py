@@ -25,7 +25,7 @@ def get_filters():
           continue
         else:
           break
-          
+
     # Asks user to specify a month to filter on, or choose all.
     while True:
             month = input("\nWhich month would you like to filter by? \nJanuary \nFebruary \nMarch \nApril \nMay \nJune \nor type 'all' if you do not have any preference?\n").strip().lower()
@@ -99,7 +99,7 @@ def load_data(city, month, day):
 
 
 
-
+# Display earliest, most common Days, and Month
 def time_stats(df):
     """Displays statistics on the most frequent times of travel."""
 
