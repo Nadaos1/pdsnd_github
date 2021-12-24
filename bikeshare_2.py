@@ -2,6 +2,8 @@ import time
 import pandas as pd
 import numpy as np
 
+# this list use to show the city data 
+
 CITY_DATA = { 'chicago': 'chicago.csv',
               'new York City': 'new_york_city.csv',
               'washington': 'washington.csv' }
@@ -24,6 +26,7 @@ def get_filters():
           continue
         else:
           break
+          # use if else with break
 
     # Asks user to specify a month to filter on, or choose all.
     while True:
