@@ -33,6 +33,7 @@ def get_filters():
               continue
             else:
              break
+             # get user input for month (all, january, february, ... , june)
 
 
     # Asks user to specify a day of week, or choose all.
